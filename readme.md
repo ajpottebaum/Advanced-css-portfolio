@@ -1,4 +1,4 @@
-# Horiseon-Code-Refactor
+# CSS-Portfolio
 > Created my first draft of my professional portfolio
 
 ## Table of Contents
